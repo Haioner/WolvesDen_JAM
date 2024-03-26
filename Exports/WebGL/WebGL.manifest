@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: survival-world_0
+      Hash: c9cd80c8da0e3f3a0f06b29f25e7575c
+      CRC: 1217319003
+      Dependencies: {}
