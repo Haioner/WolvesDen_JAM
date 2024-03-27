@@ -231,11 +231,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6761886982051948733, guid: f3f6dce0e9b756c418e4d256612a5dee,
-        type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Size.x
