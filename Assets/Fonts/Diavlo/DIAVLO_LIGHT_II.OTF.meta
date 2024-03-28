@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6a9f7bdcd4942f942881e22b0b9b2e77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Diavlo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93cdcc7ee9e856347800e3d6b87f26dc, type: 3}
+  - {fileID: 12800000, guid: c1fa982fafd31e744a1535e90a970345, type: 3}
+  - {fileID: 12800000, guid: c0b27798453ab4042a0ac5451565eec1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
