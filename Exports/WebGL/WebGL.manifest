@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: survival-world_0
-      Hash: 5c2167d8eb5421146d006fa5e2418c2a
-      CRC: 3140759537
+      Name: survidle_0
+      Hash: db1870f5cd0095b93a151dd53e79f907
+      CRC: 514772732
       Dependencies: {}
