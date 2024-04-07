@@ -65,13 +65,20 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"GetResourceAmount","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ResourceID","value":{"$content":"tjpbmbrkl6wey2jcaj6bz","$type":"System.String"},"typeHandle":{"Identification":"System.String,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MeshRenderGFX","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.MeshRenderer,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HitParticle","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6761886981547733874, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6761886981547733874, guid: f3f6dce0e9b756c418e4d256612a5dee,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 5674301223699693955, guid: eb47bae03fa1449458de97122faee2dc,
+        type: 3}
     - target: {fileID: 6761886981547733886, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Name
@@ -190,32 +197,32 @@ PrefabInstance:
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Size.x
-      value: 3.3832295
+      value: 0.8707823
       objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Size.y
-      value: 7.0733876
+      value: 3.758343
       objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Size.z
-      value: 3.428143
+      value: 0.7860862
       objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Center.x
-      value: 0.02430284
+      value: 0.024302846
       objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Center.y
-      value: 3.536565
+      value: 1.8790427
       objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948734, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
       propertyPath: m_Center.z
-      value: -0.00000017881393
+      value: -0.00000017530778
       objectReference: {fileID: 0}
     - target: {fileID: 6761886982051948735, guid: f3f6dce0e9b756c418e4d256612a5dee,
         type: 3}
